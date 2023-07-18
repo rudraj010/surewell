@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194159817426",
+    "project_id": "surewell-a2095",
+    "storage_bucket": "surewell-a2095.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194159817426:android:321d2c7d3864dcfa96330b",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194159817426-md63t1cfstd55ieka6po57qfs029umt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNuM-reerJCFW3r-0OYD_xG77rQ4orlgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194159817426-md63t1cfstd55ieka6po57qfs029umt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
